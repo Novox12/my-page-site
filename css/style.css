@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+section img {
+    border-radius: 50%;
+    width: 150px;
+}
